@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/amankumarbajpai/a6256b91-4031-4683-8caf-af8a32aaef3c/6227e6f2-e06d-4919-b5c3-cc0ad7b62d2a/_apis/work/boardbadge/f43f581d-5960-4641-aacf-45f6843e4f56)](https://dev.azure.com/amankumarbajpai/a6256b91-4031-4683-8caf-af8a32aaef3c/_boards/board/t/6227e6f2-e06d-4919-b5c3-cc0ad7b62d2a/Microsoft.RequirementCategory)
 # 2048
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
